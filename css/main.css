@@ -36,6 +36,7 @@ body {
   height: 2em;
   margin-right: .5rem;
 }
+
 .masthead span {
   width: 9em;
 }
@@ -143,6 +144,7 @@ body {
   max-width: 28em;
   margin: 0 0 1.5rem;
 }
+
 .card a {
   display: inline-block;
   background-color: #bea59b;
@@ -152,6 +154,7 @@ body {
   font-weight: bold;
   text-decoration: none;
 }
+
 .card a:hover {
   border: 2px solid #522806;
 }
