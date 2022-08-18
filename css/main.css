@@ -9,9 +9,11 @@ html {
 *::after {
   box-sizing: inherit;
 }
+
 body {
   margin: 0;
 }
+
 .masthead {
   display: flex;
   justify-content: space-between;
@@ -22,11 +24,13 @@ body {
   color: #fff;
   font-size: 1.25rem;
 }
+
 .masthead h1 {
   display: flex;
   align-items: center;
   font-size: 1.5rem;
 }
+
 .masthead img {
   width: 2em;
   height: 2em;
@@ -35,6 +39,7 @@ body {
 .masthead span {
   width: 9em;
 }
+
 .nav ul {
   margin: 0;
   padding: 0;
@@ -42,12 +47,14 @@ body {
   display: flex;
   align-items: center;
 }
+
 .nav a {
   color: #fff;
   padding: .5em;
   border-radius: 1em;
   text-decoration: none;
 }
+
 .nav a:hover {
   border: 2px solid #fff;
 }
@@ -64,10 +71,12 @@ body {
   color: #fff;
   font-size: 1.5rem;
 }
+
 .banner img {
   grid-area: banner;
   width: 100%;
 }
+
 .banner section {
   grid-area: banner;
   align-self: center;
@@ -76,10 +85,12 @@ body {
   max-width: 20em;
   text-align: center;
 }
+
 .banner h2,
 .banner p {
   margin: 0 0 1.5rem;
 }
+
 .banner a {
   display: inline-block;
   background-color: transparent;
@@ -123,9 +134,11 @@ body {
   width: 12em;
   margin: 0 0 1.5rem;
 }
+
 .card h2 {
   margin: 0 0 1.5rem;
 }
+
 .card p {
   max-width: 28em;
   margin: 0 0 1.5rem;
