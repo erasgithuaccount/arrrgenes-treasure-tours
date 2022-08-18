@@ -89,7 +89,6 @@ body {
 .banner p {
   margin: 0 0 1.5rem;
 }
-
 .banner a {
   display: inline-block;
   background-color: transparent;
@@ -150,7 +149,6 @@ body {
   text-align: center;
   padding: 1rem;
 }
-
-.footer * {
+r * {
   margin: 0;
 }
